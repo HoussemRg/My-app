@@ -182,7 +182,7 @@ int main()
     Directeur D("Houssem","1563",20);
     ChefDepartement Ch("Seif","1485","Mecanique",15,3);
     Fonctionnaire F("Ayoub","1354",36);
-    Centre C("Enit ");
+    Centre C("Notre Centre ");
     C.ajouterEmployee(&D);
     C.ajouterEmployee(&E);
     C.ajouterEmployee(&Ch);
